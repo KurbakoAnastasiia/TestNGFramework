@@ -6,7 +6,9 @@ public class Constants {
 
     public static final String TESTDATA_FILEPATH = "";
 
-    public static final String SCREENSHOT_FILEPATH = "";
+    public static final String SCREENSHOT_FILEPATH = "screenshots/HRMS/";
 
     public static final int IMPLICIT_WAIT = 10;
+
+    public static final int EXPLICIT_WAIT = 20;
 }
